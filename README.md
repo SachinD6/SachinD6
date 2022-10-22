@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
-- 🌱 I’m currently learning <strong>Data Structures & Algorithms</strong>
+
+- 🔭 I’m currently working on **personal project(will open soon for everyone)**
+
+- 🌱 I’m currently learning **BlockChain & Web 3**
+
+- 👯 I’m looking to collaborate on **Unique and innovative ideas**
 
 - 📫 How to reach me __sachinduhan1223@gmail.com__
 
