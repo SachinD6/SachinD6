@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on personal project<br>👯 I’m looking to collaborate on innovative ideas<br>🌱 I’m currently learning DSA<br>
+👯 I’m looking to collaborate on innovative ideas<br>🌱 I’m currently learning DSA<br>
 
 
 ## 🌐 Socials:
