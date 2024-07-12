@@ -5,6 +5,7 @@ I'm currently exploring the exciting realms of DevOps and cloud technologies, di
 Embark on a journey through my projects:
 
 🌟 **Projects**:
+- [ClearScan](https://clearscan.vercel.app):  AI-powered tool designed to provide comprehensive resume analysis, performance metrics, and enhancement suggestions
 - [Code2Snap](https://code2snap.vercel.app): A platform for converting code snippets into shareable images.
 
 🌐 **Personal Website**: Explore more about me on [sachinchaudhary.tech](https://sachinchaudhary.tech).
