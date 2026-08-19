@@ -1,6 +1,6 @@
 # Sachin Duhan
 
-Software engineer. I build TypeScript products and agent tooling — backends, Next.js apps, and the unglamorous systems that have to keep working after launch.
+Software engineer. I build products people actually use, and the tooling that makes coding agents less annoying.
 
 [Portfolio](https://sachinduhan.vercel.app) · [LinkedIn](https://linkedin.com/in/sachinxduhan) · [Email](mailto:sachinduhan.work@gmail.com) · [npm](https://www.npmjs.com/~sxch)
 
@@ -10,21 +10,17 @@ Software engineer. I build TypeScript products and agent tooling — backends, N
 
 Resume Claude Code, Cursor, and Codex sessions inside [Pi](https://pi.dev). Searchable picker, strict project-cwd matching, inert handoff. TypeScript, no Python.
 
+**[FresherGo](https://freshergo.com)**
+
+Verified entry-level tech jobs, aggregated from official company career pages and updated daily. Search, saved roles, and weekly alerts.
+
 **[RepoAtlas](https://github.com/SachinD6/repoatlas)** — [demo](https://repoatlas.vercel.app)
 
 Ask a large repo a question and get file-backed answers. Ingestion pipeline with AST parsing, pgvector, Redis, and async workers.
 
-**[RentMyKey](https://github.com/SachinD6/rentmykey)**
-
-Serverless rental product: bookings, billing, and fraud checks on Cloudflare Workers + PostgreSQL. Shipped solo; first month passed 100 users.
-
-**[Project Copilot](https://github.com/SachinD6/project-copilot)** — [demo](https://project-copilot-psi.vercel.app)
-
-Turn a product idea into architecture, an ERD, and a markdown roadmap. Next.js, Gemini, Docker.
-
 ## Focus
 
-TypeScript, Next.js, Node.js, PostgreSQL, Redis, Cloudflare Workers, AWS (SQS/S3), RAG pipelines.
+Tools that make other developers' lives easier, and products that hold up under real users. Right now: agent session/context tooling, verified job data at scale, and evidence-first codebase Q&A.
 
 Azure Administrator (AZ-104).
 
