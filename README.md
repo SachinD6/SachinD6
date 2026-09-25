@@ -1,8 +1,8 @@
-# Sachin Duhan
+# Sachin Chaudhary
 
 Software engineer. I build products people actually use, and the tooling that makes coding agents less annoying.
 
-[Portfolio](https://sachinduhan.vercel.app) · [LinkedIn](https://linkedin.com/in/sachinxduhan) · [Email](mailto:sachinduhan.work@gmail.com) · [npm](https://www.npmjs.com/~sxch)
+[Portfolio](https://sxch.dev) · [X/Twitter](https://x.com/sxch0) · [LinkedIn](https://linkedin.com/in/sachinxduhan) · [Email](mailto:sachinduhan.work@gmail.com) · [npm](https://www.npmjs.com/~sxch)
 
 ## Selected work
 
@@ -21,7 +21,5 @@ Verified entry-level tech jobs, aggregated from official company career pages an
 ## Focus
 
 Tools that make other developers' lives easier, and products that hold up under real users. Right now: agent session/context tooling, verified job data at scale, and a memory-light browser for Linux.
-
-Azure Administrator (AZ-104).
 
 Based in India. Open to full-time software engineering roles.
